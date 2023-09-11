@@ -1,5 +1,5 @@
 # Inner Peace 
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/logo.png)
+![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/logo.png?raw=true)
 Inner Peace is a Web-based Application (Prototype) intended for patients to maintain mental health by consulting or looking for tips about psychology through the application. This application is still a prototype because it does not have a back-end. This application was built by myself using HTML 5, CSS, and JavaScript without any frameworks.
 
 # Features
