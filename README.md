@@ -12,6 +12,6 @@ Inner Peace is a Web-based Application (Prototype) intended for patients to main
 
 
 # Interfaces
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Homepage.png) ![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/About%20us.png)
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Bantuan.png) ![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Konsultasi%20Page.png)
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Pengaplikasian.png)
+![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Homepage.png?raw=true) ![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/About%20us.png?raw=true)
+![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Bantuan.png?raw=true) ![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Konsultasi%20Page.png?raw=true)
+![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Pengaplikasian.png?raw=true)
